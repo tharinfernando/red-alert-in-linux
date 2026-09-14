@@ -4,9 +4,10 @@ Fix for **Red Alert 2 / Yuri's Revenge (CnCNet)** on Linux Wine + Wayland that
 **renders only when you move the mouse, runs at ~1 FPS, then freezes**, and
 takes forever to sync with other players.
 
-Tested on: Arch Linux, Hyprland (Wayland/XWayland), vanilla Wine 11.17 and
-Steam Proton Experimental (non-Steam game), hybrid Intel Iris Plus +
-NVIDIA MX230, Internet Archive `red-alert-2_202103` dump + CnCNet client 9.3.3.
+Tested on: Omarchy 4.0.3.1 (Arch-based, Hyprland on Wayland/XWayland),
+vanilla Wine 11.17 and Steam Proton Experimental (non-Steam game), hybrid
+Intel Iris Plus + NVIDIA MX230, Internet Archive `red-alert-2_202103` dump +
+CnCNet client 9.3.3.
 
 ## Symptoms
 
